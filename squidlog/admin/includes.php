@@ -1,0 +1,14 @@
+<?php
+include_once('config.inc.php');
+include_once('classes/Tabela.class.php');
+include_once('classes/Usuario.class.php');
+include_once('classes/Viewer.class.php');
+include_once('classes/Blk.class.php');
+include_once('classes/Lib.class.php');
+include_once('classes/Libmsn.class.php');
+include_once('classes/Semauth.class.php');
+include_once('classes/Semauthip.class.php');
+include_once('classes/Siteslib.class.php');
+include_once('classes/Sitesblk.class.php');
+include_once('classes/Qos.class.php');
+?>
